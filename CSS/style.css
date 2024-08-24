@@ -132,9 +132,9 @@ nav li a{
 }
 
 .department_card_img img {
-    width: 100%;
-    /* height: 100%; */
-    object-fit: cover;
+    width:100%;
+    height: 200px;
+    object-fit: center;
 }
 
 .department_card_text {
